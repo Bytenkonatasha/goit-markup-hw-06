@@ -2,11 +2,11 @@
   "printWidth" : 100 ,
   "tabWidth" : 2 ,
   "useTabs" : false ,
-  "semi" : правда ,
-  "singleQuote" : правда ,
+  "semi" : true ,
+  "singleQuote" : true ,
   " trailingComma" : " es5 " ,
-  "bracketSpacing" : правда ,
+  "bracketSpacing" : true ,
   "jsxBracketSameLine" : false ,
-  "arrowParens" : " уникати " ,
-  "proseWrap" : " завжди "
+  "arrowParens" : "avoid" ,
+  "proseWrap" : "always"
 }
